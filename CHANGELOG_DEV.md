@@ -7,3 +7,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-06-11 19:34]** refactor: clean up redundant class utilities across component layers
 - **[2026-06-12 19:44]** docs: update release notes and milestone summaries
 - **[2026-06-14 12:27]** feat: add accessible aria-labels and keyboard navigation
+- **[2026-06-18 10:39]** docs: update module documentation and usage notes
