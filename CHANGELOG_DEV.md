@@ -13,3 +13,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-06-26 13:25]** perf: debounce scroll event listeners to minimize DOM repaints
 - **[2026-06-29 17:47]** docs: document architecture flow and component structure
 - **[2026-07-01 20:24]** docs: clarify environment setups and local preview steps
+- **[2026-07-09 10:10]** refactor: modularize internal helpers for cleaner reusability
