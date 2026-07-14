@@ -16,3 +16,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-09 10:10]** refactor: modularize internal helpers for cleaner reusability
 - **[2026-07-10 12:18]** perf: optimize asset imports and bundle tree-shaking
 - **[2026-07-13 12:06]** docs: clarify environment setups and local preview steps
+- **[2026-07-14 21:19]** feat: implement state handling for dynamic component views
