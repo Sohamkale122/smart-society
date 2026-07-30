@@ -21,3 +21,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-24 13:43]** docs: update module documentation and usage notes
 - **[2026-07-27 15:29]** style: polish spacing across section hero headers
 - **[2026-07-29 19:11]** docs: update module documentation and usage notes
+- **[2026-07-30 18:44]** perf: reduce redundant layout recalcs in animated cards
