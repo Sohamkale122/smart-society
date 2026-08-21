@@ -32,3 +32,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-14 18:13]** feat: implement state handling for dynamic component views
 - **[2026-08-19 20:48]** fix: resolve intermittent state desync during view transition
 - **[2026-08-20 18:54]** fix: resolve mobile viewport overflow on compact devices
+- **[2026-08-21 13:08]** fix: address z-index layering on floating drawer overlay
