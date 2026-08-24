@@ -34,3 +34,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-20 18:54]** fix: resolve mobile viewport overflow on compact devices
 - **[2026-08-21 13:08]** fix: address z-index layering on floating drawer overlay
 - **[2026-08-23 15:23]** perf: reduce redundant layout recalcs in animated cards
+- **[2026-08-24 12:57]** style: enhance card shadow glow on high-res displays
