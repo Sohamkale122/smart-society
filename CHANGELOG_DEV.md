@@ -35,3 +35,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-21 13:08]** fix: address z-index layering on floating drawer overlay
 - **[2026-08-23 15:23]** perf: reduce redundant layout recalcs in animated cards
 - **[2026-08-24 12:57]** style: enhance card shadow glow on high-res displays
+- **[2026-08-25 18:37]** perf: improve initial paint time by preloading core fonts
