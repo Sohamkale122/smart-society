@@ -49,3 +49,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-09-14 14:39]** style: adjust button active state and hover transitions
 - **[2026-09-15 17:43]** docs: update module documentation and usage notes
 - **[2026-09-17 20:52]** fix: correct active navigation state during smooth scrolling
+- **[2026-09-20 20:35]** fix: resolve mobile viewport overflow on compact devices
