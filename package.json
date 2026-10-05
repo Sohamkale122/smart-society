@@ -1,0 +1,37 @@
+{
+  "name": "smart-society-management-system",
+  "version": "1.0.0",
+  "description": "Smart Society – Society Management System built with ReactJS, MongoDB, Supabase, Express",
+  "main": "server/src/index.js",
+  "type": "module",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "build:client": "npm run build --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "node server/src/index.js",
+    "server": "npm start --prefix server",
+    "client": "npm run dev --prefix client",
+    "seed": "node server/src/seed.js"
+  },
+  "keywords": [
+    "society-management",
+    "react",
+    "mongodb",
+    "supabase",
+    "rbac",
+    "visitor-management",
+    "gatekeeper"
+  ],
+  "author": "Soham Kale",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "morgan": "^1.10.0"
+  }
+}
